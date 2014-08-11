@@ -1,0 +1,52 @@
+
+/* INDEX*/
+#content > h1{
+    text-align: center;
+}
+.statements{
+    background: #fcfcfc;
+    margin: 0 10%;
+}
+#statement{
+    color: #666666;
+    float: left;
+    padding: 1%;
+    text-align: justify;
+    /*width: 19%;*/
+}
+
+.mind{
+    clear: both;
+    background: #2f484b;
+    height: 60px;
+}
+.mind_content{
+    clear: both;
+    background: #2f484b;
+    margin: 0 11%;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.content_container{
+
+}
+.mind p{
+    color: #f5f5f5;
+    font-family: Helvetica;
+    font-size: 1.35em;
+    font-style: italic;
+    float: left;
+}
+#learn_more{
+    float: right;
+    margin: 5px 0 0;
+}
+/* MENU */
+
+#mainmenu{
+    text-align: center;
+}
+/* SLIDER */
+#content .carousel-inner{
+
+}
